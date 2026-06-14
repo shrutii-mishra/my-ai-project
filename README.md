@@ -1,11 +1,9 @@
-# VectorDB — Build a Vector Database from Scratch in C++
+# AI-Powered Vector Database — Built a Vector Database from Scratch in C++
 
-A fully working **Vector Database** built from scratch in C++ with a web UI.  
-Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
-
-> Built as an educational project to show how production vector databases like Pinecone, Weaviate, and Chroma actually work under the hood.
+A high-performance vector database built in C++ featuring semantic search, multiple indexing algorithms (HNSW, KD-Tree, Brute Force), and an AI-powered question answering system using a local LLM via Ollama. The project includes an interactive web interface for real-time search, visualization, and retrieval-augmented generation (RAG).
 
 ---
+<img width="1895" height="799" alt="Screenshot 2026-05-04 232531" src="https://github.com/user-attachments/assets/0a08d68f-0ef0-4d9c-9b24-0803a0736b28" />
 
 ## What This Project Does
 
@@ -128,14 +126,6 @@ You should see both models listed.
 
 ### Step 4 — Clone the Repository
 
-Open **PowerShell** and run:
-
-```powershell
-git clone https://github.com/YOUR_USERNAME/VectorDB.git
-cd VectorDB
-```
-
-*(Replace `YOUR_USERNAME` with the actual GitHub username)*
 
 ---
 
